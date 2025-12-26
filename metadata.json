@@ -1,0 +1,7 @@
+{
+  "name": "screen lab",
+  "description": "A high-performance image corrupter combining raw byte-level manipulation with Generative AI for advanced datamoshing and glitch art.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
